@@ -1,1 +1,2 @@
 # ETH-Kipu
+Mi nombre es Nicolas Zalazar, tengo 32 años, hace casi 10 años que estoy en el mundo de la programación, actualmente como programador en ERP especializado en Dynamics 365 FO, pero desde el 2021 por medio de un amigo me empecé a incursionar en el mundo de las criptomonedas, al principio por la rentabilidad económica que se le podía hacer pero luego aprendiendo más lo que represente la web3 me encantó la solución que propone, es una tecnología que es una realidad hoy en día por lo cuál estar a la vanguardia resultará beneficioso.
